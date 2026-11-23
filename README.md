@@ -4,7 +4,7 @@ A responsive, modern landing page designed for **The Metropolitan Museum of Art 
 
 ## Live Preview
 
-- [DEMO LINK](https://github.com/adadiada/layout_landing-page_The_Met)
+- [DEMO LINK](https://adadiada.github.io/layout_landing-page_The_Met)
 
 ## Design Reference
 
@@ -40,8 +40,6 @@ Follow these instructions to set up and run the project locally on your machine:
    ```bash
    npm start
    ```
-
-   Open (http://localhost:8080)in your browser to view the page.
 
 ## Features
 
